@@ -14,7 +14,7 @@ This Discord bot plays user's specified music, either by entering key words or a
 
 ## Installation:
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the following before running and must 
-download FFmpeg first from here: [ffmpeg](https://ffmpeg.org/download.html)
+download [FFmpeg](https://ffmpeg.org/download.html) first.
 
 ```bash
 pip install discord.py
