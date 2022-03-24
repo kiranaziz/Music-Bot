@@ -12,13 +12,12 @@ This Discord bot plays user's specified music, either by entering key words or a
 - /pause - Pauses the current song being played or resumes if already paused
 - /resume - Resumes playing the current song
 
-## Installation
-
-### For VS Code Version:
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the following before running:
+## Installation:
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the following before running and must 
+download FFmpeg first from here: [](https://ffmpeg.org/download.html)
 
 ```bash
 pip install discord.py
-pip install ffmpeg (must download FFmpeg first from here: <https://ffmpeg.org/download.html>)
+pip install ffmpeg
 pip install youtube_dl
 ```
